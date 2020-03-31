@@ -1,4 +1,4 @@
-# Play Hanzai
+# Play Hanja
 
 ## Screenshot
 
@@ -7,8 +7,8 @@
 ## Installation
 
 ``` bash
-$ git clone https://github.com/J2P/play-hanzai.git
-$ cd play-hanzai
+$ git clone https://github.com/J2P/play-hanja.git
+$ cd play-hanja
 $ npm i
 $ npm run start
 ```
